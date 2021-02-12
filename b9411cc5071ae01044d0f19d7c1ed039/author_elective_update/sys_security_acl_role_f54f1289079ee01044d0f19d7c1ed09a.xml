@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 13:51:52</sys_created_on>
+        <sys_id>f54f1289079ee01044d0f19d7c1ed09a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_572081_snow_eval_new_joiner_utilities.x_572081_snow_eval.new_joiner_utilities_user</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_security_acl display_value="x_572081_snow_eval_new_joiner_utilities">794f1289079ee01044d0f19d7c1ed097</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f54f1289079ee01044d0f19d7c1ed09a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 13:51:52</sys_updated_on>
+        <sys_user_role display_value="x_572081_snow_eval.new_joiner_utilities_user" name="x_572081_snow_eval.new_joiner_utilities_user">754fd249079ee01044d0f19d7c1ed024</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</application>
+        <file_path/>
+        <instance_id>642a2944db7a48144d2bac44d496199f</instance_id>
+        <instance_name>dev98768</instance_name>
+        <name>sys_security_acl_role_f54f1289079ee01044d0f19d7c1ed09a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-11 13:51:52</sys_created_on><sys_id>f54f1289079ee01044d0f19d7c1ed09a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_572081_snow_eval_new_joiner_utilities.x_572081_snow_eval.new_joiner_utilities_user</sys_name><sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package><sys_policy/><sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope><sys_security_acl display_value="x_572081_snow_eval_new_joiner_utilities">794f1289079ee01044d0f19d7c1ed097</sys_security_acl><sys_update_name>sys_security_acl_role_f54f1289079ee01044d0f19d7c1ed09a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-11 13:51:52</sys_updated_on><sys_user_role display_value="x_572081_snow_eval.new_joiner_utilities_user" name="x_572081_snow_eval.new_joiner_utilities_user">754fd249079ee01044d0f19d7c1ed024</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1328285813</payload_hash>
+        <record_name>x_572081_snow_eval_new_joiner_utilities.x_572081_snow_eval.new_joiner_utilities_user</record_name>
+        <reverted_from/>
+        <source>79411cc5071ae01044d0f19d7c1ed03b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 13:51:52</sys_created_on>
+        <sys_id>024f1289079ee01044d0f19d7c1ed09d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177915cc7250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 13:51:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>794f1289c69ee010452884de1382ee9c</update_guid>
+        <update_guid_history>794f1289c69ee010452884de1382ee9c:1328285813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_572081_snow_eval_new_joiner_utilities.x_572081_snow_eval.new_joiner_utilities_">ee713ac507dee01044d0f19d7c1ed0c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 15:11:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6e375e8d2bd74a8084eb951f56cd3040</sys_id>
+        <sys_metadata>f54f1289079ee01044d0f19d7c1ed09a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_572081_snow_eval_new_joiner_utilities.x_572081_snow_eval.new_joiner_utilities_user</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_parent display_value="">794f1289079ee01044d0f19d7c1ed097</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_scope_delete display_value="">086a33108ca24b8882979241ce0c4684</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f54f1289079ee01044d0f19d7c1ed09a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f54f1289079ee01044d0f19d7c1ed09a">024f1289079ee01044d0f19d7c1ed09d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:11:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
