@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_572081_snow_eval_new_joiner_utilities">x_572081_snow_eval_new_joiner_utilities</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NJU</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 15:14:40</sys_created_on>
+        <sys_id>7a32720907dee01044d0f19d7c1ed0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NJU</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_update_name>sys_number_7a32720907dee01044d0f19d7c1ed0be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:14:40</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</application>
+        <file_path/>
+        <instance_id>642a2944db7a48144d2bac44d496199f</instance_id>
+        <instance_name>dev98768</instance_name>
+        <name>sys_number_7a32720907dee01044d0f19d7c1ed0be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_572081_snow_eval_new_joiner_utilities">x_572081_snow_eval_new_joiner_utilities</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>NJU</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-11 15:14:40</sys_created_on><sys_id>7a32720907dee01044d0f19d7c1ed0be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NJU</sys_name><sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package><sys_policy/><sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope><sys_update_name>sys_number_7a32720907dee01044d0f19d7c1ed0be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-11 15:14:40</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1023916186</payload_hash>
+        <record_name>NJU</record_name>
+        <reverted_from/>
+        <source>79411cc5071ae01044d0f19d7c1ed03b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 15:14:40</sys_created_on>
+        <sys_id>b632720907dee01044d0f19d7c1ed0c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17791a8948c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:14:40</sys_updated_on>
+        <type>Number</type>
+        <update_guid>fe3272091edee01002b9c67bbca775c3</update_guid>
+        <update_guid_history>fe3272091edee01002b9c67bbca775c3:1023916186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-12 02:33:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>161b1607aa5643e8a1dcf4ce4f71fef1</sys_id>
+        <sys_metadata>7a32720907dee01044d0f19d7c1ed0be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NJU</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_parent display_value="">ad91fac507dee01044d0f19d7c1ed03e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_scope_delete display_value="">086a33108ca24b8882979241ce0c4684</sys_scope_delete>
+        <sys_update_name>sys_number_7a32720907dee01044d0f19d7c1ed0be</sys_update_name>
+        <sys_update_version display_value="sys_number_7a32720907dee01044d0f19d7c1ed0be">b632720907dee01044d0f19d7c1ed0c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-12 02:33:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

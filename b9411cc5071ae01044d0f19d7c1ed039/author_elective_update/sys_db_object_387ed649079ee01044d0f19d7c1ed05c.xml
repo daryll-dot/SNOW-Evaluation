@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>New Joiner Utilities</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_572081_snow_eval_new_joiner_utilities</name>
+        <number_ref display_value="NJU">5c23260d079ee01044d0f19d7c1ed0b1</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">e3f033c4c923101091f9f06464832716</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 13:51:51</sys_created_on>
+        <sys_id>387ed649079ee01044d0f19d7c1ed05c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Joiner Utilities</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_update_name>sys_db_object_387ed649079ee01044d0f19d7c1ed05c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:08:09</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_572081_snow_eval.new_joiner_utilities_user" name="x_572081_snow_eval.new_joiner_utilities_user">754fd249079ee01044d0f19d7c1ed024</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</application>
+        <file_path/>
+        <instance_id>642a2944db7a48144d2bac44d496199f</instance_id>
+        <instance_name>dev98768</instance_name>
+        <name>sys_db_object_387ed649079ee01044d0f19d7c1ed05c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>New Joiner Utilities</label><live_feed_enabled>false</live_feed_enabled><name>x_572081_snow_eval_new_joiner_utilities</name><number_ref display_value="NJU">5c23260d079ee01044d0f19d7c1ed0b1</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">e3f033c4c923101091f9f06464832716</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-11 13:51:51</sys_created_on><sys_id>387ed649079ee01044d0f19d7c1ed05c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>New Joiner Utilities</sys_name><sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package><sys_policy/><sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope><sys_update_name>sys_db_object_387ed649079ee01044d0f19d7c1ed05c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-11 15:08:09</sys_updated_on><update_access>false</update_access><user_role display_value="x_572081_snow_eval.new_joiner_utilities_user" name="x_572081_snow_eval.new_joiner_utilities_user">754fd249079ee01044d0f19d7c1ed024</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1037878870</payload_hash>
+        <record_name>New Joiner Utilities</record_name>
+        <reverted_from/>
+        <source>79411cc5071ae01044d0f19d7c1ed03b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 15:08:09</sys_created_on>
+        <sys_id>53b0768507dee01044d0f19d7c1ed053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17791a29cdb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:08:09</sys_updated_on>
+        <type>Table</type>
+        <update_guid>dbb0768559dee01077b207351bd16552</update_guid>
+        <update_guid_history>dbb0768559dee01077b207351bd16552:1037878870,1023ea0da29ee010d8416756bf607edc:1544796943,924f1289679ee010a0456f18cc0d70bd:1648966189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 15:11:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>9ecba4e9496a4a28b9a38fb67c115810</sys_id>
+        <sys_metadata>387ed649079ee01044d0f19d7c1ed05c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Joiner Utilities</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_scope_delete display_value="">086a33108ca24b8882979241ce0c4684</sys_scope_delete>
+        <sys_update_name>sys_db_object_387ed649079ee01044d0f19d7c1ed05c</sys_update_name>
+        <sys_update_version display_value="sys_db_object_387ed649079ee01044d0f19d7c1ed05c">53b0768507dee01044d0f19d7c1ed053</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 15:11:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

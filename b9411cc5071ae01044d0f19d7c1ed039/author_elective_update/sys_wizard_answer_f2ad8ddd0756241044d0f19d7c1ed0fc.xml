@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Joiner Utilities</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>New Joiner Utilities</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-12 02:33:47</sys_created_on>
+        <sys_id>f2ad8ddd0756241044d0f19d7c1ed0fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Joiner Utilities</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_update_name>sys_wizard_answer_f2ad8ddd0756241044d0f19d7c1ed0fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-12 02:33:47</sys_updated_on>
+        <table/>
+        <target_url>x_572081_snow_eval_new_joiner_utilities.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</application>
+        <file_path/>
+        <instance_id>642a2944db7a48144d2bac44d496199f</instance_id>
+        <instance_name>dev98768</instance_name>
+        <name>sys_wizard_answer_f2ad8ddd0756241044d0f19d7c1ed0fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Joiner Utilities</answer><button_label/><dependent_value/><element/><name>New Joiner Utilities</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-12 02:33:47</sys_created_on><sys_id>f2ad8ddd0756241044d0f19d7c1ed0fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Joiner Utilities</sys_name><sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package><sys_policy/><sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope><sys_update_name>sys_wizard_answer_f2ad8ddd0756241044d0f19d7c1ed0fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-12 02:33:47</sys_updated_on><table/><target_url>x_572081_snow_eval_new_joiner_utilities.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1842231541</payload_hash>
+        <record_name>New Joiner Utilities</record_name>
+        <reverted_from/>
+        <source>10a9c6a30702201044d0f19d7c1ed0e0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-02-06 20:26:23</sys_created_on>
+        <sys_id>98ac16d5075a241044d0f19d7c1ed09d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>177790629980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>58ac16d5cf5a24105f4028a71a0f499d</update_guid>
+        <update_guid_history>58ac16d5cf5a24105f4028a71a0f499d:-1842231541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-12 08:18:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>550251094d7f42b6b75f0fbf866ed3a4</sys_id>
+        <sys_metadata>f2ad8ddd0756241044d0f19d7c1ed0fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Joiner Utilities</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_parent display_value="Task">6ff033c4c923101091f9f06464832717</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_scope_delete display_value="">086a33108ca24b8882979241ce0c4684</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f2ad8ddd0756241044d0f19d7c1ed0fc</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f2ad8ddd0756241044d0f19d7c1ed0fc">98ac16d5075a241044d0f19d7c1ed09d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-12 08:18:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

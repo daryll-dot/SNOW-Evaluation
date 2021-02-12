@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition>IO:84a2fa19079a241044d0f19d7c1ed0fc=Yes^EQ</condition>
+        <guide display_value="New Joiner Order Guide">c5fb6945071ee01044d0f19d7c1ed0f6</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Request for Workstation ">2a7c6145071ee01044d0f19d7c1ed0b3</item>
+        <order>300</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-12 10:19:59</sys_created_on>
+        <sys_id>7d48761d079a241044d0f19d7c1ed0e1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>2a7c6145071ee01044d0f19d7c1ed0b3</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_7d48761d079a241044d0f19d7c1ed0e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-12 10:20:27</sys_updated_on>
+        <use_sc_layout>false</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

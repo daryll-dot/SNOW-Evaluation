@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>1500</order>
+        <question display_value="Time Zone:">4faa2489075ae01044d0f19d7c1ed0d9</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 05:53:37</sys_created_on>
+        <sys_id>7ec13c8d075ae01044d0f19d7c1ed062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Europe/Stockholm</sys_name>
+        <sys_package display_value="SNOW Evaluation" source="x_572081_snow_eval">b9411cc5071ae01044d0f19d7c1ed039</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW Evaluation">b9411cc5071ae01044d0f19d7c1ed039</sys_scope>
+        <sys_update_name>question_choice_7ec13c8d075ae01044d0f19d7c1ed062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 05:53:37</sys_updated_on>
+        <text>Europe/Stockholm</text>
+        <value>Europe/Stockholm</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=7ec13c8d075ae01044d0f19d7c1ed062"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>7ec13c8d075ae01044d0f19d7c1ed062</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 05:53:37</sys_created_on>
+        <sys_id>14d17c8d075ae01044d0f19d7c1ed0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 05:53:37</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>7ec13c8d075ae01044d0f19d7c1ed062</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 05:53:37</sys_created_on>
+        <sys_id>d8d17c8d075ae01044d0f19d7c1ed0d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 05:53:37</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

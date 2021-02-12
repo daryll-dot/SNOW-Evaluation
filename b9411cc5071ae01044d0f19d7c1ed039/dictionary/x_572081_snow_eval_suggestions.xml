@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Suggestions" max_length="40" name="x_572081_snow_eval_suggestions" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reviewed" max_length="40" name="reviewed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="125" name="short_description" type="string"/>
+        <element attributes="encode_utf8=false" label="Suggested by" max_length="32" name="suggested_by" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Suggested by" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index2">
+            <element name="suggested_by"/>
+        </index>
+    </element>
+</database>
